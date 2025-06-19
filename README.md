@@ -1,9 +1,11 @@
 # 🧠 Heal-AI: AI-Powered Medical Assistant
 
 Heal-AI is a modern AI-driven healthcare solution that uses machine learning, deep learning, and predictive analytics to assist in diagnosis, health risk prediction, and medical image analysis.
-#live = https://heal-ai-chi.vercel.app/
+
 
 ---
+#live = https://heal-ai-chi.vercel.app/
+
 
 ## 🚀 Features
 
